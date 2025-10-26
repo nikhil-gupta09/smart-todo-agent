@@ -1,4 +1,4 @@
-🧠 Smart To-Do Assistant
+🤖 Smart To-Do Assistant
 
 AI / Agentic Productivity Tool | Built with Python & Streamlit
 
