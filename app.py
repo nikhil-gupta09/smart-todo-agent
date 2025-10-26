@@ -44,7 +44,7 @@ class SmartToDoAgent:
 # =========================================================
 st.set_page_config(page_title="Smart To-Do Assistant", page_icon="🧠", layout="centered")
 
-st.title("🧠 Smart To-Do Assistant")
+st.title("🤖 Smart To-Do Assistant")
 st.markdown("An AI-inspired task prioritization assistant that helps you plan your day efficiently.")
 
 # Initialize session state
@@ -124,3 +124,4 @@ st.download_button(
     file_name="updated_tasks.csv",
     mime="text/csv"
 )
+
